@@ -38,3 +38,38 @@ button:hover {
 }
 
 /* ============================================= */
+
+header {
+  display: flex;
+  padding: 22px 105px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+header ul {
+  display: flex;
+  gap: 50px;
+}
+
+.btn-Login {
+  padding: 10px 20px;
+  font-size: 14px;
+}
+
+.btn-SignUp {
+  padding: 10px 20px;
+  font-size: 14px;
+}
+
+.nav-H {
+  width: max-content;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.div-H-Login {
+  display: flex;
+  gap: 14px;
+}
+
+/* ============================================= */
