@@ -272,17 +272,17 @@ header ul {
 }
 
 .div-M-Design {
-    width: 661px;
-    display: flex;
-    flex-direction: column;
-    gap: 32px;
+  width: 661px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
 }
 
 .div-M-DesignText {
-    width: 601px;
-    display: flex;
-    flex-direction: column;
-    gap: 16px;
+  width: 601px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
 }
 
 /* ============================================= */
@@ -296,40 +296,125 @@ header ul {
   align-items: center;
 }
 .div-M-Customers {
-    display: flex;
-    flex-direction: column;
-    gap: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
 }
 .div-M-CustomersContent {
-    display: flex;
-    flex-direction: column;
-    gap: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
 }
 .div-M-Tim {
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
 }
 .div-M-CustomersLogo {
-    display: flex;
-    flex-direction: row;
-    gap: 32px;
-    align-items: center;
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+  align-items: center;
 }
 
 .div-M-CustomersLogoLogo {
-    display: flex;
-    flex-direction: row;
-    gap: 41px;
+  display: flex;
+  flex-direction: row;
+  gap: 41px;
 }
 
 .div-M-CustomersLogoMeet {
-    display: flex;
-    flex-direction: row;
-    gap: 8px;
-    align-items: center;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
 }
 
 /* ============================================= */
 
+.sec-M-caring {
+  height: 506px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 0 0;
+  align-items: center;
+}
+.div-M-Caring1 {
+  width: 1110px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 0 0;
+  align-items: center;
+  text-align: center;
+}
 
+.div-M-Caring1 p {
+  width: 628px;
+  box-sizing: border-box;
+}
+
+.div-M-Caring2 {
+  display: flex;
+  flex-direction: row;
+  padding: 0 144px;
+  justify-content: space-between;
+}
+
+.div-M-Caring2Col {
+  display: flex;
+  flex-direction: column;
+  gap: -96px;
+  padding: 0 0;
+}
+
+.div-M-Caring2Col img {
+  width: 368px;
+  height: 286px;
+}
+
+.div-M-Caring2ColContent {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 16px 16px;
+}
+
+.div-M-Caring2ColContent h4 {
+  width: 285px;
+  text-align: center;
+}
+
+.div-M-Caring2ColContentBox {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  padding: 8px 8px;
+}
+
+.div-M-Caring2ColContentBox img {
+  width: 24px;
+  height: 24px;
+}
+
+/* ============================================= */
+
+.div-F-Info {
+}
+.div-F-Copyright {
+}
+.div-F-SocialLinks {
+}
+.div-F-Links {
+}
+.div-F-Links-Col1 {
+}
+.div-F-Links-Col2 {
+}
+.div-F-Links-Col3 {
+}
+.div-F-InputEmail {
+}
