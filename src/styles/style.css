@@ -80,3 +80,25 @@ header ul {
 }
 /* ============================================= */
 
+.sec-M-Hero {
+  position: relative;
+  box-sizing: border-box;
+  display: flex;
+  gap: 104px;
+  padding: 96px 144px;
+  align-items: center;
+}
+
+.div-M-Lessons {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.div-M-Hero {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+/* ============================================= */
