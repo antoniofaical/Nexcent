@@ -1,1 +1,40 @@
 @import url("./global.css");
+
+/* ============================================= */
+
+.btn-Primary {
+  font-size: 18px;
+  color: var(--color-neutral-white);
+  background-color: var(--color-primary);
+  border-radius: 4px;
+  padding: 14px 32px;
+  width: max-content;
+  height: max-content;
+}
+
+.bg-grey {
+  background-color: var(--color-neutral-silver);
+}
+
+.bg-dark {
+  background-color: var(--color-neutral-black);
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: var(--color-neutral-black);
+}
+
+button {
+  background-color: transparent;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+/* ============================================= */
