@@ -193,3 +193,27 @@ header ul {
 }
 /* ============================================= */
 
+.sec-M-unseen {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 144px;
+}
+.div-M-Unseen {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+.div-M-UnseenText {
+  width: 601px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  text-align: justify;
+}
+
+/* ============================================= */
+
