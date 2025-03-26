@@ -110,3 +110,27 @@ header ul {
 }
 
 /* ============================================= */
+
+.sec-M-clients {
+  height: 190px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 0 144px;
+}
+.div-M-CustomersText {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.div-M-CustomersLogo {
+  display: flex;
+  flex-direction: row;
+  height: 98px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* ============================================= */
