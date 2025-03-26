@@ -184,3 +184,12 @@ header ul {
 }
 
 /* ============================================= */
+.sec-Body {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  margin-top: 62px;
+  margin-bottom: 94.6px;
+}
+/* ============================================= */
+
