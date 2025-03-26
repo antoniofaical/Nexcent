@@ -403,16 +403,39 @@ header ul {
 /* ============================================= */
 footer {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   gap: 0;
   padding: 0 0;
 }
 /* ============================================= */
 
+.sec-F-Pellentesque {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  padding: 32px 0;
+  align-items: center;
+  text-align: center;
+}
 
+.sec-F-Pellentesque h1 {
+  width: 672px;
+}
+
+.sec-F-Pellentesque button {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  padding: 14px 32px;
+  align-items: center;
+  justify-content: center;
+}
 
 /* ============================================= */
 
+.sec-F-Footer {
+  
+}
 .div-F-Info {
 }
 .div-F-Copyright {
