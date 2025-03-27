@@ -51,6 +51,11 @@ header ul {
   gap: 50px;
 }
 
+header img {
+  width: 155;
+  height: 24px;
+}
+
 .btn-Login {
   padding: 10px 20px;
   font-size: 14px;
@@ -87,6 +92,11 @@ header ul {
   gap: 104px;
   padding: 96px 144px;
   align-items: center;
+}
+
+.sec-M-Hero img {
+  width: 391px;
+  height: 407px;
 }
 
 .div-M-Lessons {
@@ -131,6 +141,11 @@ header ul {
   height: 98px;
   justify-content: space-between;
   align-items: center;
+}
+
+.div-M-CustomersLogo img {
+  width: 40px;
+  height: 40px;
 }
 
 /* ============================================= */
@@ -183,6 +198,11 @@ header ul {
   text-align: center;
 }
 
+.div-M-Community2-colcol img {
+  width: 65px;
+  height: 56px;
+}
+
 /* ============================================= */
 .sec-Body {
   display: flex;
@@ -201,6 +221,12 @@ header ul {
   align-items: center;
   padding: 0 144px;
 }
+
+.sec-M-unseen img {
+  width: 442px;
+  height: 433px;
+}
+
 .div-M-Unseen {
   display: flex;
   flex-direction: column;
@@ -253,6 +279,12 @@ header ul {
   flex-direction: row;
   gap: 16px;
 }
+
+.div-M-HelpingItem img {
+  width: 48px;
+  height: 48px;
+}
+
 .div-M-HelpingItem-Text {
   display: flex;
   flex-direction: column;
@@ -269,6 +301,11 @@ header ul {
   justify-content: space-between;
   align-items: center;
   padding: 0 144px;
+}
+
+.sec-M-design img {
+  width: 441px;
+  height: 433px;
 }
 
 .div-M-Design {
@@ -295,7 +332,15 @@ header ul {
   padding: 32px 144px;
   align-items: center;
 }
+
+.sec-M-customers img {
+  width: 326px;
+  height: 326px;
+  border-radius: 8px;
+}
+
 .div-M-Customers {
+  width: 761px;
   display: flex;
   flex-direction: column;
   gap: 32px;
@@ -323,6 +368,12 @@ header ul {
   gap: 41px;
 }
 
+.div-M-CustomersLogoLogo img {
+  width: 48px;
+  height: 48px;
+  border-radius: 0;
+}
+
 .div-M-CustomersLogoMeet {
   display: flex;
   flex-direction: row;
@@ -330,6 +381,11 @@ header ul {
   align-items: center;
 }
 
+.div-M-CustomersLogoMeet img {
+  width: 24px;
+  height: 24px;
+  border-radius: 0;
+}
 /* ============================================= */
 
 .sec-M-caring {
