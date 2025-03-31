@@ -217,9 +217,9 @@ header img {
   box-sizing: border-box;
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
   align-items: center;
   padding: 0 144px;
+  gap: 49px;
 }
 
 .sec-M-unseen img {
@@ -298,7 +298,7 @@ header img {
   box-sizing: border-box;
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  gap: 50px;
   align-items: center;
   padding: 0 144px;
 }
@@ -421,11 +421,11 @@ header img {
 }
 
 .div-M-Caring2Col {
+  position: relative;
   width: 368px;
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
-  /* gap: -96px; */
   padding: 0 0;
 }
 
@@ -436,17 +436,22 @@ header img {
 }
 
 .div-M-Caring2ColContent {
+  position: absolute;
+  top: 200px;
+  z-index: 100;
   display: flex;
   flex-direction: column;
   align-items: center;
+  height: 176px;
   gap: 16px;
   padding: 16px 16px;
   border-radius: 8px;
-  box-shadow: 0px 8px 16px rgba(171,190,209,0.4);
+  box-shadow: 0px 8px 16px rgba(171, 190, 209, 0.4);
 }
 
 .div-M-Caring2ColContent h4 {
   width: 285px;
+  height: 84px;
   text-align: center;
 }
 
